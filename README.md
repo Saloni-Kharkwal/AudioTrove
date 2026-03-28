@@ -1,5 +1,7 @@
 # 🎙️ AudioTrove
 
+https://github.com/user-attachments/assets/c9b92426-b757-41b5-9e7d-1afe00c12a69
+
 **AudioTrove** is an iOS voice recording app designed to help users capture, organize, and rediscover their ideas through structured audio collections instead of scattered voice notes.
 
 It transforms recordings from temporary clips into **meaningful, searchable moments**.
