@@ -1,6 +1,6 @@
-# 🎙️ Audiotrove
+# 🎙️ AudioTrove
 
-**Audiotrove** is an iOS voice recording app designed to help users capture, organize, and rediscover their ideas through structured audio collections instead of scattered voice notes.
+**AudioTrove** is an iOS voice recording app designed to help users capture, organize, and rediscover their ideas through structured audio collections instead of scattered voice notes.
 
 It transforms recordings from temporary clips into **meaningful, searchable moments**.
 
@@ -10,7 +10,7 @@ It transforms recordings from temporary clips into **meaningful, searchable mome
 
 As someone who often records melodies, thoughts, and quick ideas, I noticed how easily recordings get buried inside long, unorganized lists. Important moments became difficult to revisit because there was no structure around them.
 
-Audiotrove was created to solve this problem by making voice recordings easier to manage, categorize, and return to when needed.
+AudioTrove was created to solve this problem by making voice recordings easier to manage, categorize, and return to when needed.
 
 ---
 
@@ -29,7 +29,7 @@ Audiotrove was created to solve this problem by making voice recordings easier t
 
 ## 🧠 Use Cases
 
-Audiotrove is helpful for:
+AudioTrove is helpful for:
 
 - 🎵 Singers recording melodies
 - 📚 Students capturing quick notes
@@ -49,7 +49,7 @@ Audiotrove is helpful for:
 
 ## 📱 Design Approach
 
-Audiotrove focuses on making recordings feel:
+AudioTrove focuses on making recordings feel:
 
 - structured instead of scattered
 - visual instead of list-based
